@@ -3,6 +3,7 @@ message: "Please cite this project release and retain attribution to inherited r
 title: "Partner representation audit for allelic heterogeneity"
 type: software
 version: 1.0.0
+doi: 10.5281/zenodo.23435673
 url: https://github.com/seefreewind/allelic-heterogeneity-partner-representations
 repository-code: https://github.com/seefreewind/allelic-heterogeneity-partner-representations
 date-released: 2026-10-17

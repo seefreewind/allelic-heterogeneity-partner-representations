@@ -2,7 +2,7 @@
 
 Frozen code and derived evidence for a staged audit of technical scoreability, phenotype-balanced coverage and incremental phenotype information in partner-aware protein representations.
 
-Project release: [v1.0.0](https://github.com/seefreewind/allelic-heterogeneity-partner-representations/releases/tag/v1.0.0). Zenodo archival link will be added after publication.
+Project release: [v1.0.0](https://github.com/seefreewind/allelic-heterogeneity-partner-representations/releases/tag/v1.0.0). Zenodo version DOI: [10.5281/zenodo.23435673](https://doi.org/10.5281/zenodo.23435673). All-version DOI: [10.5281/zenodo.23435672](https://doi.org/10.5281/zenodo.23435672).
 
 ## Frozen conclusions
 
