@@ -1,0 +1,27 @@
+{
+  "title": "Partner representation audit for allelic heterogeneity",
+  "upload_type": "software",
+  "description": "Code and derived evidence for technical scoreability, phenotype-balanced coverage and incremental phenotype information in partner-aware protein representations. This independently versioned project archive reuses the scientific payload of the preceding partner-representation-audit archive without reanalysis; historical attribution and licences are preserved. Excludes pretrained weights, encoder caches, restricted raw databases, manuscripts and correspondence.",
+  "creators": [
+    {
+      "name": "Partner representation audit for allelic heterogeneity"
+    }
+  ],
+  "keywords": [
+    "allelic heterogeneity",
+    "protein interactions",
+    "representation audit",
+    "reproducibility"
+  ],
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "version": "1.0.0",
+  "publication_date": "2026-10-17",
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.23435156",
+      "relation": "isDerivedFrom",
+      "scheme": "doi"
+    }
+  ]
+}
